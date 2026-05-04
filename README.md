@@ -23,12 +23,6 @@
 <p>
   🌐 I am a Software Engineering graduate with a strong passion for <strong>Artificial Intelligence</strong>, <strong>NLP</strong>, and <strong>Full-Stack Development</strong>. With hands-on experience in building <strong>RAG systems</strong>, <strong>semantic search engines</strong>, and production-ready web applications, I strive to bridge the gap between complex AI models and real-world user solutions.
 </p>
-<p>
-  🎓 B.S. in Software Engineering from <strong>The Islamia University of Bahawalpur</strong> (CGPA: 3.62/4.0).
-</p>
-<p>
-  🚀 Currently seeking opportunities as an <strong>AI Developer Intern</strong> in Lahore, Pakistan.
-</p>
 
 <div align="center">
   <br>
@@ -45,16 +39,6 @@
   </a>
 </p>
 
-<h2>⭐ | Github Stats</h2>
-<div align="center">
-  <a href="https://github.com/mohd-ali10">
-    <!-- Main Stats Card -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohd-ali10&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=0"/>
-    
-    <!-- Top Languages Card -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-ali10&layout=compact&langs_count=7&theme=default&cache_seconds=0"/>
-  </a>
-</div>
 
 <h2>🛠️ | Languages, Frameworks, and Tools</h2>
 <table>
