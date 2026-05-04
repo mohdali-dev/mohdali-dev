@@ -19,7 +19,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Muhammad+Ali!;" />
 
-<h2> | About Me</h2> 
+<h2>📖 | About Me</h2> 
 <p>
   🌐 I am a Software Engineering graduate with a strong passion for <strong>Artificial Intelligence</strong>, <strong>NLP</strong>, and <strong>Full-Stack Development</strong>. With hands-on experience in building <strong>RAG systems</strong>, <strong>semantic search engines</strong>, and production-ready web applications, I strive to bridge the gap between complex AI models and real-world user solutions.
 </p>
@@ -38,43 +38,7 @@
   <br/>
 </div>
 
-<h2>📚 | Education & Certifications</h2>
-<p>Committed to continuous learning in AI and Software Engineering.</p>
-<br>
-<div align="center">
-  <table style="margin-left: auto; margin-right: auto;">
-    <tr>
-      <!-- IUB -->
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Islamia_University_Bahawalpur_logo.png/120px-Islamia_University_Bahawalpur_logo.png" height="50" alt="IUB Logo"/> 
-        <br>
-        <strong>IUB</strong> <br> 
-        <strong>B.S.</strong> Software Engineering <br>
-        <img src="https://geps.dev/progress/100" width="105" alt="progress-bar"/>
-      </td>
-      
-      <!-- Coursera -->
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Coursera_logo.svg/120px-Coursera_logo.svg.png" height="50" alt="Coursera Logo"/>
-        <br>
-        <strong>Certifications</strong> <br> 
-        ML, Deep Learning, GenAI <br>
-        <img src="https://geps.dev/progress/100" width="105" alt="progress-bar"/>
-      </td>
-      
-      <!-- Hugging Face -->
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hugging_Face_logo.svg/120px-Hugging_Face_logo.svg.png" height="50" alt="Hugging Face Logo"/>
-        <br>
-        <strong>Specialization</strong> <br> 
-        NLP & LLM Apps <br>
-        <img src="https://geps.dev/progress/90" width="105" alt="progress-bar"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<h2>| My Contribution Streak</h2>
+<h2>🔥| My Contribution Streak</h2>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-ali10&theme=default&hide_border=true" />
