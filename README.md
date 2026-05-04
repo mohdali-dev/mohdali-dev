@@ -48,8 +48,11 @@
 <h2>⭐ | Github Stats</h2>
 <div align="center">
   <a href="https://github.com/mohd-ali10">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohd-ali10&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-ali10&layout=compact&langs_count=7&theme=default"/>
+    <!-- Main Stats Card -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohd-ali10&show_icons=true&theme=default&include_all_commits=true&count_private=true&cache_seconds=0"/>
+    
+    <!-- Top Languages Card -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-ali10&layout=compact&langs_count=7&theme=default&cache_seconds=0"/>
   </a>
 </div>
 
