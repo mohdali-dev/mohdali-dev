@@ -1,12 +1,17 @@
 <div align="right">
-  <a style="text-decoration: none" target="_blank" href="https://github.com/mohd-ali10">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=mohd-ali10.mohd-ali10&left_color=gray&right_color=blue&left_text=Coders%20visitors">
+  <!-- Instagram -->
+  <a style="text-decoration: none" target="_blank" href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME">
+    <img width="70" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white">
   </a>
+  
+  <!-- LinkedIn -->
   <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/mohdali1">
-    <img width="70" src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
+    <img width="70" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
+  
+  <!-- Email -->
   <a style="text-decoration: none" target="_blank" href="mailto:aliskdse@gmail.com">
-    <img width="70" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white">
+    <img width="70" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white">
   </a>
 </div>
 
