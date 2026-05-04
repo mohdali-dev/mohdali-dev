@@ -1,17 +1,17 @@
 <div align="right">
-  <!-- Instagram -->
+  <!-- Instagram (Original Gradient Logo) -->
   <a style="text-decoration: none" target="_blank" href="https://www.instagram.com/m_aliii10">
-    <img width="30" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+    <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" />
   </a>
   
-  <!-- LinkedIn -->
+  <!-- LinkedIn (Original Blue Logo) -->
   <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/mohdali1">
-    <img width="30" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
   </a>
   
-  <!-- Email (Gmail) -->
+  <!-- Gmail (Original Red/White Logo) -->
   <a style="text-decoration: none" target="_blank" href="mailto:aliskdse@gmail.com">
-    <img width="30" src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email" />
   </a>
 </div>
 
