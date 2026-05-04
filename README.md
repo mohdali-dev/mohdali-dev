@@ -1,17 +1,12 @@
 <div align="right">
-  <!-- Instagram (Original Gradient Logo) -->
-  <a style="text-decoration: none" target="_blank" href="https://www.instagram.com/m_aliii10">
-    <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" />
+  <a style="text-decoration: none" target="_blank" href="https://github.com/mohd-ali10">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=mohd-ali10.mohd-ali10&left_color=gray&right_color=blue&left_text=Coders%20visitors">
   </a>
-  
-  <!-- LinkedIn (Original Blue Logo) -->
   <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/mohdali1">
-    <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
+    <img width="70" src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
   </a>
-  
-  <!-- Gmail (Original Red/White Logo) -->
   <a style="text-decoration: none" target="_blank" href="mailto:aliskdse@gmail.com">
-    <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email" />
+    <img width="70" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white">
   </a>
 </div>
 
@@ -37,6 +32,44 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mohd-ali10/mohd-ali10/output/github-contribution-grid-snake.svg" />
   <br/>
 </div>
+
+<h2>📚 | Education & Certifications</h2>
+<p>Committed to continuous learning in AI and Software Engineering.</p>
+<br>
+<div align="center">
+  <table style="margin-left: auto; margin-right: auto;">
+    <tr>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Islamia_University_Bahawalpur_logo.png/120px-Islamia_University_Bahawalpur_logo.png" height="40" alt="IUB Logo"/> 
+        <br>
+        <strong>IUB</strong> <br> 
+        <strong>B.S.</strong> Software Engineering <br>
+        <img src="https://geps.dev/progress/100" width="105" alt="progress-bar"/>
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Coursera_logo.svg/120px-Coursera_logo.svg.png" height="40" alt="Coursera Logo"/>
+        <br>
+        <strong>Certifications</strong> <br> 
+        ML, Deep Learning, GenAI <br>
+        <img src="https://geps.dev/progress/100" width="105" alt="progress-bar"/>
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hugging_Face_logo.svg/120px-Hugging_Face_logo.svg.png" height="40" alt="Hugging Face Logo"/>
+        <br>
+        <strong>Specialization</strong> <br> 
+        NLP & LLM Apps <br>
+        <img src="https://geps.dev/progress/90" width="105" alt="progress-bar"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<h2>🔥| My Contribution Streak</h2>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-ali10&theme=default&hide_border=true" />
+  </a>
+</p>
 
 <h2>⭐ | Github Stats</h2>
 <div align="center">
