@@ -38,50 +38,6 @@
   <br/>
 </div>
 
-<h2>📚 | Education & Certifications</h2>
-<p>Committed to continuous learning in AI and Software Engineering.</p>
-<br>
-<div align="center">
-  <table style="margin-left: auto; margin-right: auto;">
-    <tr>
-      <!-- IUB Logo -->
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Islamia_University_Bahawalpur_logo.png/120px-Islamia_University_Bahawalpur_logo.png" height="50" alt="IUB Logo"/> 
-        <br>
-        <strong>IUB</strong> <br> 
-        <strong>B.S.</strong> Software Engineering <br>
-        <img src="https://geps.dev/progress/100" width="105" alt="progress-bar"/>
-      </td>
-      
-      <!-- Coursera Logo -->
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Coursera_logo.svg/120px-Coursera_logo.svg.png" height="50" alt="Coursera Logo"/>
-        <br>
-        <strong>Certifications</strong> <br> 
-        ML, Deep Learning, GenAI <br>
-        <img src="https://geps.dev/progress/100" width="105" alt="progress-bar"/>
-      </td>
-      
-      <!-- Hugging Face Logo -->
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Hugging_Face_logo.svg/120px-Hugging_Face_logo.svg.png" height="50" alt="Hugging Face Logo"/>
-        <br>
-        <strong>Specialization</strong> <br> 
-        NLP & LLM Apps <br>
-        <img src="https://geps.dev/progress/90" width="105" alt="progress-bar"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-<h2>🔥| My Contribution Streak</h2>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-ali10&theme=default&hide_border=true" />
-  </a>
-</p>
-
 <h2>⭐ | Github Stats</h2>
 <div align="center">
   <a href="https://github.com/mohd-ali10">
