@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Muhammad Ali 👋
 <h3 align="center">AI Developer | NLP & Machine Learning Enthusiast | Full-Stack Builder</h3>
 <p align="center">
@@ -17,39 +16,43 @@
 ## 🚀 About Me
 
 🔭 **I'm currently working on:**  
- • RAG-powered semantic search engines with hybrid retrieval  
- • Production-ready NLP pipelines using LangChain & Hugging Face  
- • Full-stack AI applications with React/Next.js frontends  
+ • RAG-powered semantic search engines with hybrid retrieval (dense + sparse vectors)  
+ • Production-ready NLP pipelines using LangChain, Hugging Face & Sentence Transformers  
+ • Full-stack AI applications with React/Next.js frontends and FastAPI backends  
+ • Client-side PII sanitization tools for privacy-preserving document processing  
 
 🌱 **I'm currently learning:**  
- • Advanced LLM fine-tuning techniques (LoRA, QLoRA, PEFT)  
- • MLOps practices: model versioning, CI/CD for ML, monitoring  
- • Vector databases: Pinecone, Weaviate, Qdrant optimization  
+ • Advanced LLM fine-tuning techniques: LoRA, QLoRA, PEFT & parameter-efficient methods  
+ • MLOps best practices: model versioning, CI/CD for ML, drift detection & monitoring  
+ • Vector database optimization: Pinecone, Weaviate, Qdrant indexing strategies  
+ • Multi-agent systems & autonomous AI workflows with LangGraph  
 
 👯 **I'm looking to collaborate on:**  
- • Open-source AI/ML tools & NLP libraries  
- • Developer tools that simplify AI integration  
- • Research projects in information retrieval & question answering  
+ • Open-source AI/ML tools, NLP libraries & developer infrastructure projects  
+ • Research initiatives in information retrieval, question answering & semantic search  
+ • Community projects that make AI accessible to developers in emerging markets  
 
 📫 **How to reach me:**  
  ✉️ [aliskdse@gmail.com](mailto:aliskdse@gmail.com)  
- 💼 [LinkedIn](https://linkedin.com/in/mohdali1) | 🐙 [GitHub](https://github.com/mohd-ali10)  
+ 💼 [LinkedIn](https://linkedin.com/in/mohdali1) • 🐙 [GitHub](https://github.com/mohd-ali10)  
+ 📸 [Instagram](https://instagram.com/m_aliii10) • 🌐 [Portfolio](#) *(coming soon)*  
 
 ⚡ **Fun facts:**  
  • I automate boring tasks with Python scripts before drinking my morning chai ☕  
- • Built a client-side PII sanitization tool that processes 10K+ docs/day  
- • Passionate about making AI accessible to developers in emerging markets  
+ • Built a client-side PII sanitization tool that processes 10K+ documents/day  
+ • Passionate about mentoring junior developers & contributing to open-source AI  
+ • Love exploring the intersection of linguistics, psychology & machine learning  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohdali1"><img width="40" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/mohd-ali10"><img width="40" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://instagram.com/m_aliii10"><img width="40" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="mailto:aliskdse@gmail.com"><img width="40" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#"><img width="40" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white"></a>
+  <a href="https://linkedin.com/in/mohdali1"><img width="45" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/mohd-ali10"><img width="45" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://instagram.com/m_aliii10"><img width="45" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:aliskdse@gmail.com"><img width="45" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="#"><img width="45" alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white"></a>
 </p>
 
 ---
@@ -158,124 +161,3 @@
 
 ```python
 # Tech: Python, LangChain, Sentence Transformers, Pinecone, FastAPI, React
-```
-
-✅ Built hybrid retrieval system combining dense & sparse vectors  
-✅ Implemented query expansion, re-ranking, and citation tracking  
-✅ Achieved 94% relevance score on domain-specific benchmark  
-✅ Deployed with Docker & CI/CD pipeline on AWS  
-
-[🔗 Live Demo](#) • [📁 Source Code](#) • [📄 Technical Writeup](#)
-
-</details>
-
-<details>
-<summary><h3>🔐 Client-Side PII Sanitization Tool</h3></summary>
-
-```javascript
-// Tech: TypeScript, React, WebAssembly, Regex, NLP models
-```
-
-✅ Processes 10K+ documents/day with zero server-side data transfer  
-✅ Uses browser-based NER models for real-time redaction  
-✅ GDPR/CCPA compliant by design with audit logging  
-✅ Open-sourced with comprehensive test coverage  
-
-[🔗 npm Package](#) • [📁 GitHub Repo](#) • [🧪 Test Reports](#)
-
-</details>
-
-<details>
-<summary><h3>🛒 Full-Stack E-Commerce Platform</h3></summary>
-
-```typescript
-// Tech: Next.js, TypeScript, Tailwind, PostgreSQL, Stripe, Docker
-```
-
-✅ Implemented JWT auth, role-based access, and rate limiting  
-✅ Integrated payment processing with webhook validation  
-✅ Optimized LCP/CLS scores to >90 on Lighthouse  
-✅ Containerized with multi-stage Docker builds  
-
-[🔗 Live Store](#) • [📁 Repository](#) • [📊 Performance Metrics](#)
-
-</details>
-
----
-
-## 🎓 Education & Certifications
-
-### 🎓 Bachelor of Science in Software Engineering
-**The Islamia University of Bahawalpur** | 2020 – 2024  
- • CGPA: **3.62 / 4.0**  
- • Relevant Coursework: Machine Learning, NLP, Data Structures, Algorithms, Database Systems  
- • Final Year Project: *"Context-Aware Question Answering System for Educational Content"*
-
-### 🏅 Professional Certifications
-<p align="center">
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Coursera-Machine_Learning-007396?style=flat-square&logo=coursera&logoColor=white">
-  <img alt="Deep Learning" src="https://img.shields.io/badge/Coursera-Deep_Learning-007396?style=flat-square&logo=coursera&logoColor=white">
-  <img alt="Generative AI" src="https://img.shields.io/badge/DeepLearning.AI-Generative_AI-007396?style=flat-square&logo=deeplearningdotai&logoColor=white">
-  <img alt="Math for ML" src="https://img.shields.io/badge/Coursera-Mathematics_for_ML-007396?style=flat-square&logo=coursera&logoColor=white">
-</p>
-
----
-
-## 📝 Blog & Writing (Coming Soon)
-
-✍️ *I plan to share insights on:*  
- • Practical RAG implementation patterns  
- • Optimizing LLM inference for cost & latency  
- • Building accessible AI tools for emerging markets  
- • Career guidance for AI developers in Pakistan  
-
-🔔 *Follow me to get notified when I publish!*
-
----
-
-## 🤝 Open To
-
-✅ **AI Developer Intern** roles in Lahore or remote  
-✅ Collaborations on open-source NLP/ML projects  
-✅ Mentorship opportunities for junior developers  
-✅ Speaking engagements on AI engineering topics  
-
-📬 *Feel free to reach out via email or LinkedIn!*
-
----
-
-## ☕ Support My Work
-
-If you find my projects helpful or inspiring:
-
-<p align="center">
-  <a href="https://buymeacoffee.com/mohdali10"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=mohdali10&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee"></a>
-</p>
-
-💡 *Your support helps me dedicate more time to open-source contributions and educational content!*
-
----
-
-## 🌟 Quote of the Day
-
-> *"The best way to predict the future is to build it."*  
-> — Alan Kay
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohd-ali10&style=flat-square&color=0e75b6&label=Profile+Views" alt="Views"/>
-  <img src="https://img.shields.io/badge/Dynamic-Badge?style=flat-square&color=success&logo=github&label=Last+Updated&query=$.updated_at&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmohd-ali10%2Fmohd-ali10" alt="Last Updated"/>
-</p>
-
-<p align="center">
-  <em>Made with ❤️ and lots of ☕ in Lahore, Pakistan</em>
-</p>
-
-<!-- 
-  🔄 Auto-updating badges: Stats refresh every 24h
-  🎨 Theme: Gotham (dark mode optimized)
-  ♿ Accessibility: All images include alt text
-  📱 Responsive: Works on mobile & desktop
--->
-```
-
----
