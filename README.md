@@ -1,5 +1,3 @@
-Here's a **fully detailed, ~300-line customized README** for your GitHub profile (`mohd-ali10/mohd-ali10`), tailored to your background in AI/NLP/Full-Stack development:
-
 ```markdown
 # Hi there, I'm Muhammad Ali 👋
 <h3 align="center">AI Developer | NLP & Machine Learning Enthusiast | Full-Stack Builder</h3>
