@@ -154,56 +154,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-<details open>
-<summary><h3>🔍 Semantic Search Engine (RAG Pipeline)</h3></summary>
-
-```python
-# Tech: Python, LangChain, Sentence Transformers, Pinecone, FastAPI, React
-✅ Built hybrid retrieval system combining dense & sparse vectors for improved recall
-✅ Implemented query expansion, re-ranking, and citation tracking for production use
-✅ Achieved 94% relevance score on domain-specific benchmark dataset
-✅ Deployed with Docker & CI/CD pipeline on AWS with auto-scaling
-🔗 Live Demo • 📁 Source Code • 📄 Technical Writeup
-</details>
-
-<details>
-<summary><h3>🔐 Client-Side PII Sanitization Tool</h3></summary>
-
-javascript
-1
-✅ Processes 10K+ documents/day with zero server-side data transfer for privacy
-✅ Uses browser-based NER models for real-time redaction of sensitive information
-✅ GDPR/CCPA compliant by design with comprehensive audit logging capabilities
-✅ Open-sourced with 95%+ test coverage and detailed documentation
-🔗 npm Package • 📁 GitHub Repo • 🧪 Test Reports
-</details>
-
-<details>
-<summary><h3>🛒 Full-Stack E-Commerce Platform</h3></summary>
-
-typescript
-1
-✅ Implemented JWT authentication, role-based access control, and rate limiting
-✅ Integrated Stripe payment processing with webhook validation & retry logic
-✅ Optimized Core Web Vitals: LCP/CLS scores >90 on Lighthouse audits
-✅ Containerized with multi-stage Docker builds for efficient deployment
-🔗 Live Store • 📁 Repository • 📊 Performance Metrics
-</details>
-
-<details>
-<summary><h3>🤖 NLP Pipeline for Document Classification</h3></summary>
-
-python
-1
-✅ Fine-tuned BERT-based models for multi-label classification with 92% F1-score
-✅ Built preprocessing pipeline for handling noisy, multilingual text data
-✅ Implemented model serving with FastAPI & async inference for low latency
-✅ Added monitoring dashboard for drift detection & performance tracking
-🔗 API Docs • 📁 Code • 📊 Model Card
-</details>
-
 🎓 Education & Certifications
 🎓 Bachelor of Science in Software Engineering
 The Islamia University of Bahawalpur | 2020 – 2024
