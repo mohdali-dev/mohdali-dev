@@ -1,12 +1,12 @@
 
 <div align="center">
 
-  <!-- ANIMATED HEADER WITH TYPING EFFECT -->
+  <!-- ANIMATED HEADER -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Muhammad%20Ali&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=AI%20Developer%20|%20NLP%20Engineer%20|%20Full-Stack&descSize=20&descColor=94a3b8&descAlignY=55&animation=fadeIn" width="100%"/>
 
   <br/>
 
-  <!-- MAIN SOCIAL LINKS (OFFICIAL BRAND COLORS) -->
+  <!-- SOCIAL LINKS (OFFICIAL BRAND COLORS) -->
   <table>
     <tr>
       <td align="center" width="96">
@@ -34,10 +34,11 @@
 
   <br/>
 
-  <!-- STATUS BADGE -->
+  <!-- STATUS & PRO BADGE -->
   <a href="mailto:aliskdse@gmail.com">
     <img src="https://img.shields.io/badge/Status-Open%20to%20Work-10b981?style=flat-square&labelColor=0f172a&logo=statuspage&logoColor=10b981&color=10b981" />
   </a>
+  <img src="https://img.shields.io/badge/GitHub-Pro-6366f1?style=flat-square&labelColor=0f172a&logo=github&logoColor=white" />
   <a href="https://github.com/mohd-ali10">
     <img src="https://img.shields.io/github/followers/mohd-ali10?style=flat-square&label=Followers&labelColor=0f172a&color=6366f1&logo=github" />
   </a>
@@ -50,7 +51,7 @@
 
 > *Building intelligent systems at the intersection of Language, Logic, and Code.*
 
-I am an **AI Developer** and **Software Engineer** based in Lahore, Pakistan, specializing in **Natural Language Processing (NLP)**, **Generative AI**, and **Full-Stack Development**. I transform complex ML models into production-ready applications using modern web technologies.
+I am an **AI Developer** and **Software Engineer** based in Lahore, Pakistan. I specialize in **Natural Language Processing (NLP)**, **Generative AI**, and **Full-Stack Development**. I transform complex ML models into production-ready applications using modern web technologies.
 
 <br/>
 
@@ -122,6 +123,21 @@ class MuhammadAli:
 
 ---
 
+## 📌 &nbsp;Featured Projects
+
+*(Pin these repositories on your GitHub profile for maximum visibility)*
+
+<div align="center">
+
+| **RAG Semantic Search** | **PII Sanitization Tool** | **Full-Stack E-Commerce** |
+| :---: | :---: | :---: |
+| Hybrid dense+sparse retrieval system using LangChain & Vector DBs. | Client-side privacy tool processing 10K+ documents/day. | Modern Next.js platform with AI-driven recommendations. |
+| [View Repo](https://github.com/mohd-ali10) | [View Repo](https://github.com/mohd-ali10) | [View Repo](https://github.com/mohd-ali10) |
+
+</div>
+
+---
+
 ## 📊 &nbsp;GitHub Statistics
 
 <div align="center">
@@ -178,4 +194,3 @@ class MuhammadAli:
   <sub>Made with ❤️ by Muhammad Ali</sub>
 
 </div>
-```
