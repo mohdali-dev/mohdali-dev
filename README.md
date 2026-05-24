@@ -203,11 +203,6 @@ developer = {
 </a>
 </td>
 <td align="center">
-<a href="https://github.com/mohd-ali10">
-<img src="https://img.shields.io/badge/GitHub-mohd-ali10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="44"/>
-</a>
-</td>
-<td align="center">
 <a href="https://instagram.com/m_aliii10">
 <img src="https://img.shields.io/badge/Instagram-m_aliii10-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="44"/>
 </a>
