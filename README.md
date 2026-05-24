@@ -42,61 +42,72 @@ Building AI that respects privacy & actually solves real problems. Code that shi
 <div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 <!-- TECH ARSENAL -->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Tech Arsenal
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Tech Arsenal
+
 <div align="center">
-『 Technology Mastery 』
-<br/><br/>
+
+### 『 Technology Mastery 』
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧠 AI/ML & NLP**
+#### 🧠 AI/ML & NLP
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,langchain,scikit-learn" />
-<br/>
-PyTorch          ███████████░░  92%<br/>
-LangChain        ██████████░░░  90%<br/>
-HuggingFace      ██████████░░░  88%<br/>
-TensorFlow       ██████████░░░  88%<br/>
-Scikit-learn     █████████░░░░  85%
 
-**💻 Frontend Development**
+```
+PyTorch          ███████████░░  92%
+LangChain        ██████████░░░  90%
+HuggingFace      ██████████░░░  88%
+TensorFlow       ██████████░░░  88%
+Scikit-learn     █████████░░░░  85%
+```
+
+#### 💻 Frontend Development
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux" />
-<br/>
-Next.js          ███████████░░  95%<br/>
-TypeScript       ███████████░░  92%<br/>
-React.js         ███████████░░  94%<br/>
-Tailwind CSS     ██████████░░░  90%<br/>
+
+```
+Next.js          ███████████░░  95%
+TypeScript       ███████████░░  92%
+React.js         ███████████░░  94%
+Tailwind CSS     ██████████░░░  90%
 Redux            █████████░░░░  85%
+```
 
 </td>
 <td width="50%" valign="top">
 
-**⚙️ Backend & DevOps**
+#### ⚙️ Backend & DevOps
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,githubactions,aws" />
-<br/>
-FastAPI          ███████████░░  93%<br/>
-Node.js          ██████████░░░  88%<br/>
-Docker           ████████░░░░░  80%<br/>
-GitHub Actions   █████████░░░░  85%<br/>
-AWS              ████████░░░░░  75%
 
-**🗄️ Databases & Vector Stores**
+```
+FastAPI          ███████████░░  93%
+Node.js          ██████████░░░  88%
+Docker           ████████░░░░░  80%
+GitHub Actions   █████████░░░░  85%
+AWS              ████████░░░░░  75%
+```
+
+#### 🗄️ Databases & Vector Stores
 <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,pinecone" />
-<br/>
-PostgreSQL       ██████████░░░  90%<br/>
-Pinecone         █████████░░░░  88%<br/>
-MongoDB          █████████░░░░  85%<br/>
+
+```
+PostgreSQL       ██████████░░░  90%
+Pinecone         █████████░░░░  88%
+MongoDB          █████████░░░░  85%
 Redis            ████████░░░░░  82%
+```
 
 </td>
 </tr>
 </table>
 
-**Programming Languages**
+#### Programming Languages
 <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css" />
 
 </div>
+
 
 <div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
