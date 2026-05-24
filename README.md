@@ -135,11 +135,6 @@ Redis            ████████░░░░░  82%
 
 <div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
-### 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohd-ali10&bg_color=0f172a&color=c9d1d9&line=818cf8&point=6366f1&area=true&hide_border=true&radius=16" alt="Activity Graph" width="70%" />
-
-</div>
 ### 📊 GitHub Statistics
 
 <table>
@@ -165,7 +160,7 @@ Redis            ████████░░░░░  82%
 
 ### 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohd-ali10&bg_color=0f172a&color=c9d1d9&line=818cf8&point=6366f1&area=true&hide_border=true&radius=16" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohd-ali10&bg_color=0f172a&color=c9d1d9&line=818cf8&point=6366f1&area=true&hide_border=true&radius=16" alt="Activity Graph" width="70%" />
 
 </div>
 
