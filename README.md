@@ -22,14 +22,6 @@
 
 <div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
-<!-- STATUS BADGES -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-10b981?style=flat-square&labelColor=0f172a&color=10b981" />
-  <img src="https://img.shields.io/badge/GitHub-Pro-6366f1?style=flat-square&labelColor=0f172a&color=6366f1" />
-  <img src="https://img.shields.io/github/followers/mohd-ali10?style=flat-square&label=Followers&labelColor=0f172a&color=6366f1" />
-</div>
-<br>
-
 <!-- ABOUT ME SECTION -->
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 <br>
