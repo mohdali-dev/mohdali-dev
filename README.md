@@ -135,11 +135,11 @@ Redis            ████████░░░░░  82%
 
 <div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
-<!-- GITHUB ACTIVITY -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Activity
+### 📈 Activity Graph
 
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohd-ali10&bg_color=0f172a&color=c9d1d9&line=818cf8&point=6366f1&area=true&hide_border=true&radius=16" alt="Activity Graph" width="70%" />
 
+</div>
 ### 📊 GitHub Statistics
 
 <table>
