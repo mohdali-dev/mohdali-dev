@@ -1,196 +1,152 @@
-
 <div align="center">
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Muhammad%20Ali&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=ffffff&color=0f172a&desc=AI%20Developer%20|%20NLP%20Engineer%20|%20Full-Stack&descAlignY=58&descSize=18" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=818cf8&center=true&vCenter=true&width=700&lines=NLP+%26+Generative+AI;Building+Privacy-First+AI+Systems;Transforming+Models+into+Products;Logic+Meets+Language" />
+</div>
+<br>
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
-  <!-- ANIMATED HEADER -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Muhammad%20Ali&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=AI%20Developer%20|%20NLP%20Engineer%20|%20Full-Stack&descSize=20&descColor=94a3b8&descAlignY=55&animation=fadeIn" width="100%"/>
+<!-- STATUS BADGES -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-10b981?style=flat-square&labelColor=0f172a&color=10b981" />
+  <img src="https://img.shields.io/badge/GitHub-Pro-6366f1?style=flat-square&labelColor=0f172a&color=6366f1" />
+  <img src="https://img.shields.io/github/followers/mohd-ali10?style=flat-square&label=Followers&labelColor=0f172a&color=6366f1" />
+</div>
+<br>
 
-  <br/>
+<!-- ABOUT ME SECTION -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+<br>
+I engineer intelligent systems at the intersection of Language, Logic, and Code. Based in Lahore, Pakistan 🇵🇰, I specialize in turning complex NLP models into production-ready, privacy-first applications.
+<br clear="right"/>
 
-  <!-- SOCIAL LINKS (OFFICIAL BRAND COLORS) -->
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <a href="https://github.com/mohd-ali10">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="120" height="35" alt="GitHub"/>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://linkedin.com/in/mohdali1">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="35" alt="LinkedIn"/>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="mailto:aliskdse@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120" height="35" alt="Gmail"/>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://instagram.com/m_aliii10">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="120" height="35" alt="Instagram"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+<table>
+<tr>
+<td width="50%">
+🔭 <b>Currently Building</b><br>
+• RAG-powered Semantic Search Engines (Hybrid Retrieval)<br>
+• Client-side PII Sanitization Tools (10K+ docs/day)<br>
+• Full-Stack AI Apps (Next.js + FastAPI + Vector DBs)
+</td>
+<td width="50%">
+💡 <b>What Drives Me</b><br>
+Building AI that respects privacy & actually solves real problems. Code that ships > Code that sits in branches forever.<br><br>
+🌱 <b>Learning Journey</b><br>
+• Parameter-Efficient Fine-Tuning (LoRA/QLoRA)<br>
+• MLOps: CI/CD for ML & Model Drift Detection<br>
+• Multi-Agent Workflows with LangGraph
+</td>
+</tr>
+</table>
 
-  <br/>
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
-  <!-- STATUS & PRO BADGE -->
-  <a href="mailto:aliskdse@gmail.com">
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-10b981?style=flat-square&labelColor=0f172a&logo=statuspage&logoColor=10b981&color=10b981" />
-  </a>
-  <img src="https://img.shields.io/badge/GitHub-Pro-6366f1?style=flat-square&labelColor=0f172a&logo=github&logoColor=white" />
-  <a href="https://github.com/mohd-ali10">
-    <img src="https://img.shields.io/github/followers/mohd-ali10?style=flat-square&label=Followers&labelColor=0f172a&color=6366f1&logo=github" />
-  </a>
+<!-- TECH ARSENAL -->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Tech Arsenal
+<div align="center">
+『 Technology Mastery 』
+<table>
+<tr>
+<td width="50%" valign="top">
+🧠 <b>AI/ML & NLP</b><br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,langchain,scikit-learn" /><br>
+PyTorch          ████████████░  92%
+LangChain        ███████████░   90%
+HuggingFace      ██████████░░   88%
+TensorFlow       ██████████░░   85%
+Scikit-learn     ███████████░   88%
 
+💻 <b>Frontend Development</b><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux" /><br>
+Next.js          ████████████░  95%
+TypeScript       ███████████░   92%
+React.js         ████████████░  94%
+Tailwind CSS     ███████████░   90%
+Redux            ██████████░░   85%
+</td>
+<td width="50%" valign="top">
+⚙️ <b>Backend & DevOps</b><br>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,docker,githubactions,aws" /><br>
+FastAPI          ████████████░  93%
+Node.js          ██████████░░   88%
+Docker           █████████░░░   80%
+GitHub Actions   ███████████░   85%
+AWS              ██████████░░   75%
+
+🗄️ <b>Databases & Vector Stores</b><br>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,pinecone" /><br>
+PostgreSQL       ███████████░   90%
+Pinecone         ██████████░░   88%
+MongoDB          ██████████░░   85%
+Redis            █████████░░░   82%
+</td>
+</tr>
+</table>
+<br>
+<b>Programming Languages</b><br>
+<img src="https://skillicons.dev/icons?i=python,js,ts,cpp,html,css" />
 </div>
 
----
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
-## 👋 &nbsp;Hello, I'm Muhammad Ali
-
-> *Building intelligent systems at the intersection of Language, Logic, and Code.*
-
-I am an **AI Developer** and **Software Engineer** based in Lahore, Pakistan. I specialize in **Natural Language Processing (NLP)**, **Generative AI**, and **Full-Stack Development**. I transform complex ML models into production-ready applications using modern web technologies.
-
-<br/>
-
-## 🚀 &nbsp;Current Focus
-
-```python
-class MuhammadAli:
-    def __init__(self):
-        self.name = "Muhammad Ali"
-        self.role = "AI Developer & NLP Engineer"
-        self.location = "Lahore, Pakistan 🇵🇰"
-        self.email = "aliskdse@gmail.com"
-
-    def currently_building(self):
-        return [
-            "🔍 RAG-powered Semantic Search Engines (Hybrid Retrieval)",
-            "🤖 Production NLP Pipelines (LangChain · HuggingFace)",
-            "🛡️ Client-side PII Sanitization Tools (10K+ docs/day)",
-            "⚡ Full-Stack AI Apps (Next.js + FastAPI + Vector DBs)"
-        ]
-
-    def currently_learning(self):
-        return [
-            "🧠 Parameter-Efficient Fine-Tuning (LoRA/QLoRA)",
-            "🔄 MLOps: CI/CD for ML & Model Drift Detection",
-            "🕸️ Multi-Agent Workflows with LangGraph"
-        ]
-```
-
----
-
-## 🛠️ &nbsp;Tech Stack & Tools
-
-### 🧠 &nbsp;AI, ML & NLP
+<!-- FEATURED PROJECTS -->
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> Featured Projects
 <div align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<table>
+<tr>
+<th>🔍 RAG Semantic Search</th>
+<th>🛡️ PII Sanitization Tool</th>
+<th>🛒 Full-Stack E-Commerce</th>
+</tr>
+<tr>
+<td>Hybrid dense+sparse retrieval system using LangChain & Vector DBs.</td>
+<td>Client-side privacy tool processing 10K+ documents/day.</td>
+<td>Modern Next.js platform with AI-driven recommendations.</td>
+</tr>
+<tr>
+<td><a href="https://github.com/mohd-ali10">View Repo</a></td>
+<td><a href="https://github.com/mohd-ali10">View Repo</a></td>
+<td><a href="https://github.com/mohd-ali10">View Repo</a></td>
+</tr>
+</table>
 </div>
 
-### 💻 &nbsp;Frontend Development
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
+
+<!-- GITHUB ACTIVITY -->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Activity
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohd-ali10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohd-ali10&bg_color=0f172a&color=c9d1d9&line=818cf8&point=6366f1&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
-### ⚙️ &nbsp;Backend & DevOps
+<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
+
+<!-- CHAOS & CURIOSITIES -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" width="28"> Chaos & Curiosities
+<pre style="background:#0f172a; padding:16px; border-radius:8px; color:#c9d1d9; font-family:monospace; max-width:600px; margin:auto;">
+developer = {
+    "peak_hours": "2 AM - 6 AM",
+    "philosophy": "Privacy-first AI shouldn't be an afterthought.",
+    "fuel": "~6 cups of chai/day (basically my deployment pipeline)",
+    "motto": "Code that ships > Code that sits in branches",
+    "daily_interactions": "Talking to LLMs more than actual humans (no regrets)",
+    "bedtime_stories": "Reading transformer architectures & HuggingFace docs at 2 AM"
+}
+</pre>
+
 <div align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=818cf8&center=true&vCenter=true&width=800&lines=NLP+is+just+linguistics+with+matrix+math;Chai+%2B+Code+%3D+Perfection;Ship+Fast+Break+Things+Fix+Faster;Professional+Privacy+Advocate;AI+Developer+%7C+NLP+Engineer+%7C+Full-Stack" alt="Fun Facts Typing" />
 </div>
+<br>
 
-### 🗄️ &nbsp;Databases & Vector Stores
+<!-- FOOTER -->
 <div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</div>
-
----
-
-## 📌 &nbsp;Featured Projects
-
-*(Pin these repositories on your GitHub profile for maximum visibility)*
-
-<div align="center">
-
-| **RAG Semantic Search** | **PII Sanitization Tool** | **Full-Stack E-Commerce** |
-| :---: | :---: | :---: |
-| Hybrid dense+sparse retrieval system using LangChain & Vector DBs. | Client-side privacy tool processing 10K+ documents/day. | Modern Next.js platform with AI-driven recommendations. |
-| [View Repo](https://github.com/mohd-ali10) | [View Repo](https://github.com/mohd-ali10) | [View Repo](https://github.com/mohd-ali10) |
-
-</div>
-
----
-
-## 📊 &nbsp;GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohd-ali10&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=58a6ff&text_color=c9d1d9&ring_color=6366f1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-ali10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9&langs_count=8" width="48%" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-ali10&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=6366f1&fire=f87171&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" width="70%" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohd-ali10&theme=tokyonight&hide_border=true" width="90%" />
-</div>
-
----
-
-## 🏆 &nbsp;Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohd-ali10&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%" />
-</div>
-
----
-
-## ☕ &nbsp;Fun Facts
-
-| | |
-| :--- | :--- |
-| **🌅 Morning Routine** | I automate boring tasks with Python scripts before my morning chai. |
-| **🔒 Privacy First** | Built a client-side PII sanitization tool processing 10K+ documents daily. |
-| **🤝 Community** | Passionate about mentoring junior developers and contributing to Open Source AI. |
-| **🧠 Interests** | Fascinated by the crossover between Linguistics, Psychology, and Machine Learning. |
-
----
-
-<div align="center">
-
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=100&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=30&fontColor=94a3b8&fontAlignY=40&animation=fadeIn" width="100%"/>
-
-  <h3>📫 Get in Touch</h3>
-  
-  <a href="mailto:aliskdse@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-aliskdse@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mohdali1">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <br/><br/>
-  <sub>Made with ❤️ by Muhammad Ali</sub>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=100&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=30&fontColor=818cf8&fontAlignY=40&animation=fadeIn" />
+<h3>📫 Get in Touch</h3>
+<a href="mailto:aliskdse@gmail.com"><img src="https://img.shields.io/badge/Email_Me-aliskdse@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/mohdali1"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/mohd-ali10"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br/><br/>
+<sub>Made with ❤️ & ☕ by Muhammad Ali</sub>
 </div>
