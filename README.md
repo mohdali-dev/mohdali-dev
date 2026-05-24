@@ -15,14 +15,6 @@
 <br/>
 <br/>
 
-<!-- STATUS BADGES -->
-<a href="mailto:aliskdse@gmail.com">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-10b981?style=flat-square&labelColor=0f172a&logo=statuspage&logoColor=10b981&color=10b981" />
-</a>
-<img src="https://img.shields.io/badge/GitHub-Pro-6366f1?style=flat-square&labelColor=0f172a&logo=github&logoColor=white" />
-<a href="https://github.com/mohd-ali10">
-  <img src="https://img.shields.io/github/followers/mohd-ali10?style=flat-square&label=Followers&labelColor=0f172a&color=6366f1&logo=github" />
-</a>
 
 </div>
 
