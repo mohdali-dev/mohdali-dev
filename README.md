@@ -136,7 +136,7 @@ Redis            ████████░░░░░  82%
 <div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 ### 📊 GitHub Statistics
-
+<div align="center">
 <table>
 <tr>
 <td width="50%">
