@@ -145,10 +145,10 @@ Redis            ████████░░░░░  82%
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=mohd-ali10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohd-ali10&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=6366f1&text_color=c9d1d9" alt="GitHub Stats" />
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-ali10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-ali10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
 </td>
 </tr>
 <tr>
