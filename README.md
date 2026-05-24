@@ -216,6 +216,8 @@ developer = {
 
 <br/>
 
-<sub>Made with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="14" alt="heart"/> & <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20Drink/Hot%20Beverage.png" width="14" alt="coffee"/> by <strong>Muhammad Ali</strong></sub>
+<sub>
+Made with ❤️ &amp; ☕ by <strong>Muhammad Ali</strong> • © 2026
+</sub>
 
 </div>
