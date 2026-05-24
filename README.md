@@ -1,6 +1,6 @@
 <div align="center">
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Muhammad%20Ali&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=ffffff&color=0f172a&desc=AI%20Developer%20|%20NLP%20Engineer%20|%20Full-Stack&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=Muhammad%20Ali&fontSize=75&fontAlignY=38&animation=twinkling&fontColor=ffffff&color=0f172a&desc=AI%20Developer%20|%20NLP%20Engineer%20|%20Full-Stack&descAlignY=60&descSize=20&descColor=94a3b8&stroke=818cf8&strokeWidth=2" />
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=818cf8&center=true&vCenter=true&width=700&lines=NLP+%26+Generative+AI;Building+Privacy-First+AI+Systems;Transforming+Models+into+Products;Logic+Meets+Language" />
