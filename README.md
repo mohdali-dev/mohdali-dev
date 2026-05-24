@@ -183,39 +183,39 @@ developer = {
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=818cf8&center=true&vCenter=true&width=800&lines=NLP+is+just+linguistics+with+matrix+math;Chai+%2B+Code+%3D+Perfection;Ship+Fast+Break+Things+Fix+Faster;Professional+Privacy+Advocate;AI+Developer+%7C+NLP+Engineer+%7C+Full-Stack" alt="Fun Facts Typing" />
 </div>
 <br>
-
 <!-- FOOTER -->
 <div align="center">
-  
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=80&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=28&fontColor=818cf8&fontAlignY=45&animation=fadeIn" />
+
 ### 📫 Get in Touch
 
 <table>
 <tr>
 <td align="center">
 <a href="mailto:aliskdse@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-aliskdse@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white&color=D14836" alt="Email" height="42"/>
+<img src="https://img.shields.io/badge/Gmail-aliskdse@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="44"/>
 </a>
 </td>
 <td align="center">
 <a href="https://linkedin.com/in/mohdali1">
-<img src="https://img.shields.io/badge/LinkedIn-/mohdali1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=white&color=0A66C2" alt="LinkedIn" height="42"/>
+<img src="https://img.shields.io/badge/LinkedIn-mohdali1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="44"/>
 </a>
 </td>
 <td align="center">
 <a href="https://github.com/mohd-ali10">
-<img src="https://img.shields.io/badge/GitHub-/mohd-ali10-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=white&color=181717" alt="GitHub" height="42"/>
+<img src="https://img.shields.io/badge/GitHub-mohd-ali10-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="44"/>
 </a>
 </td>
 <td align="center">
 <a href="https://instagram.com/m_aliii10">
-<img src="https://img.shields.io/badge/Instagram-/m_aliii10-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=white&color=E4405F" alt="Instagram" height="42"/>
+<img src="https://img.shields.io/badge/Instagram-m_aliii10-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="44"/>
 </a>
 </td>
 </tr>
 </table>
 
 <br/>
-
 <!-- Optional: Add a subtle animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%" alt="divider"/>
 
