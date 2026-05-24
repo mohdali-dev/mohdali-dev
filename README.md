@@ -164,7 +164,6 @@ developer = {
 
 <!-- FOOTER -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=100&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=30&fontColor=818cf8&fontAlignY=40&animation=fadeIn" />
 <h3>📫 Get in Touch</h3>
 <a href="mailto:aliskdse@gmail.com"><img src="https://img.shields.io/badge/Email_Me-aliskdse@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/mohdali1"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
