@@ -164,10 +164,43 @@ developer = {
 
 <!-- FOOTER -->
 <div align="center">
-<h3>📫 Get in Touch</h3>
-<a href="mailto:aliskdse@gmail.com"><img src="https://img.shields.io/badge/Email_Me-aliskdse@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/mohdali1"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/mohd-ali10"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<br/><br/>
-<sub>Made with ❤️ & ☕ by Muhammad Ali</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=100&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=30&fontColor=818cf8&fontAlignY=40&animation=fadeIn" />
+
+### 📫 Get in Touch
+
+<table>
+<tr>
+<td align="center">
+<a href="mailto:aliskdse@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-aliskdse@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white&color=D14836" alt="Email" height="42"/>
+</a>
+</td>
+<td align="center">
+<a href="https://linkedin.com/in/mohdali1">
+<img src="https://img.shields.io/badge/LinkedIn-/mohdali1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=white&color=0A66C2" alt="LinkedIn" height="42"/>
+</a>
+</td>
+<td align="center">
+<a href="https://github.com/mohd-ali10">
+<img src="https://img.shields.io/badge/GitHub-/mohd-ali10-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=white&color=181717" alt="GitHub" height="42"/>
+</a>
+</td>
+<td align="center">
+<a href="https://instagram.com/m_aliii10">
+<img src="https://img.shields.io/badge/Instagram-/m_aliii10-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=white&color=E4405F" alt="Instagram" height="42"/>
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Optional: Add a subtle animated divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%" alt="divider"/>
+
+<br/>
+
+<sub>Made with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" width="14" alt="heart"/> & <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food%20and%20Drink/Hot%20Beverage.png" width="14" alt="coffee"/> by <strong>Muhammad Ali</strong></sub>
+
 </div>
