@@ -136,10 +136,37 @@ Redis            ████████░░░░░  82%
 <div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 <!-- GITHUB ACTIVITY -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Activity
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Activity
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohd-ali10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohd-ali10&bg_color=0f172a&color=c9d1d9&line=818cf8&point=6366f1&area=true&hide_border=true" alt="Activity Graph" />
+
+### 📊 GitHub Statistics
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=mohd-ali10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&icon_color=6366f1&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-ali10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=818cf8&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-ali10&theme=tokyonight&hide_border=true&background=0f172a&stroke=6366f1&ring=818cf8&fire=f87171&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=8b949e" alt="Streak Stats" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohd-ali10&theme=tokyonight&hide_border=true" alt="Profile Summary" />
+</td>
+</tr>
+</table>
+
+### 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohd-ali10&bg_color=0f172a&color=c9d1d9&line=818cf8&point=6366f1&area=true&hide_border=true&radius=16" alt="Activity Graph" />
+
 </div>
 
 <div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
