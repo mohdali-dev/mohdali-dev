@@ -164,6 +164,7 @@ developer = {
 
 <!-- FOOTER -->
 <div align="center">
+  
 ### 📫 Get in Touch
 
 <table>
