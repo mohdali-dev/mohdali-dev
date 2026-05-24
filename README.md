@@ -1,9 +1,33 @@
 <div align="center">
 <!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Muhammad%20Ali&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=ffffff&color=0f172a&desc=AI%20Developer%20|%20NLP%20Engineer%20|%20Full-Stack&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Muhammad%20Ali&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=ffffff&color=0f172a&desc=AI%20Developer%20|%20NLP%20Engineer%20|%20Full-Stack&descAlignY=58&descSize=18" />
+
+<!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=818cf8&center=true&vCenter=true&width=700&lines=NLP+%26+Generative+AI;Building+Privacy-First+AI+Systems;Transforming+Models+into+Products;Logic+Meets+Language" />
+
+<br/>
+
+<!-- PROFESSIONAL BADGES -->
+<img src="https://img.shields.io/badge/AI_Developer-0f172a?style=for-the-badge&labelColor=1e293b&color=818cf8&logo=artificial-intelligence&logoColor=818cf8" />
+<img src="https://img.shields.io/badge/NLP_Engineer-0f172a?style=for-the-badge&labelColor=1e293b&color=818cf8&logo=nlp&logoColor=818cf8" />
+<img src="https://img.shields.io/badge/Privacy_First-0f172a?style=for-the-badge&labelColor=1e293b&color=818cf8&logo=security&logoColor=818cf8" />
+
+<br/>
+<br/>
+
+<!-- STATUS BADGES -->
+<a href="mailto:aliskdse@gmail.com">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-10b981?style=flat-square&labelColor=0f172a&logo=statuspage&logoColor=10b981&color=10b981" />
+</a>
+<img src="https://img.shields.io/badge/GitHub-Pro-6366f1?style=flat-square&labelColor=0f172a&logo=github&logoColor=white" />
+<a href="https://github.com/mohd-ali10">
+  <img src="https://img.shields.io/github/followers/mohd-ali10?style=flat-square&label=Followers&labelColor=0f172a&color=6366f1&logo=github" />
+</a>
+
 </div>
-<br>
+
+<br/>
+
 <div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
 <!-- STATUS BADGES -->
