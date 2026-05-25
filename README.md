@@ -134,9 +134,9 @@ Redis            ████████░░░░░  82%
 <td>Modern Next.js platform with AI-driven recommendations.</td>
 </tr>
 <tr>
-<td><a href="https://github.com/mohd-ali10">View Repo</a></td>
-<td><a href="https://github.com/mohd-ali10">View Repo</a></td>
-<td><a href="https://github.com/mohd-ali10">View Repo</a></td>
+<td><a href="https://github.com/mohdali-dev">View Repo</a></td>
+<td><a href="https://github.com/mohdali-dev">View Repo</a></td>
+<td><a href="https://github.com/mohdali-dev">View Repo</a></td>
 </tr>
 </table>
 </div>
@@ -148,19 +148,19 @@ Redis            ████████░░░░░  82%
 <table>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-ali10&theme=tokyonight&hide_border=true&background=0f172a&stroke=6366f1&ring=818cf8&fire=f87171&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=8b949e" alt="Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdali-dev&theme=tokyonight&hide_border=true&background=0f172a&stroke=6366f1&ring=818cf8&fire=f87171&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=8b949e" alt="Streak Stats" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohd-ali10&theme=tokyonight&hide_border=true" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohdali-dev&theme=tokyonight&hide_border=true" alt="Profile Summary" />
 </td>
 </tr>
 </table>
 
 ### 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohd-ali10&bg_color=0f172a&color=c9d1d9&line=818cf8&point=6366f1&area=true&hide_border=true&radius=16" alt="Activity Graph" width="70%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohdali-dev&bg_color=0f172a&color=c9d1d9&line=818cf8&point=6366f1&area=true&hide_border=true&radius=16" alt="Activity Graph" width="70%" />
 
 </div>
 
