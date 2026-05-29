@@ -124,12 +124,44 @@ Redis            ████████░░░░░  82%
 
 <div align="center">
 
-| Project | Impact | Tech Stack | Links |
-|---------|--------|------------|-------|
-| **🎙️ BaltiVoice ASR** ⭐<br><i>First public ASR for Balti (bft)</i> | ✅ 10,060 audio clips<br>✅ 30.07% WER (vs 95% baseline)<br>✅ Live demo + open dataset<br>✅ Paper submitted to arXiv | `Whisper` `PyTorch` `Gradio` `HuggingFace` | [🚀 Demo](https://huggingface.co/spaces/mohdali1/baltivoice-demo) • [📦 Dataset](https://huggingface.co/datasets/mohdali1/baltivoice-asr) • [💻 Code](https://github.com/mohdali-dev/BaltiVoice-ASR) |
-| **🔍 RAG Semantic Search**<br><i>Enterprise knowledge retrieval</i> | ✅ Sub-100ms latency<br>✅ 95%+ recall@5<br>✅ Multi-source ingestion | `LangChain` `Pinecone` `FastAPI` `OpenAI` | [🔗 Repo](https://github.com/mohdali-dev) |
-| **🛡️ PII Sanitization Tool**<br><i>Client-side privacy for sensitive docs</i> | ✅ 10K+ docs/day processed<br>✅ Zero data leaves client<br>✅ GDPR/CCPA compliant | `Python` `Regex` `NLP` `Privacy` | [🔗 Repo](https://github.com/mohdali-dev) |
-| **🛒 Full-Stack E-Commerce**<br><i>AI-powered shopping experience</i> | ✅ Personalized recommendations<br>✅ Stripe payments integrated<br>✅ Mobile-first PWA | `Next.js` `PostgreSQL` `Stripe` `Tailwind` | [🔗 Repo](https://github.com/mohdali-dev) |
+### 🎙️ BaltiVoice ASR ⭐
+[![Dataset](https://img.shields.io/badge/📦_Dataset-10K_clips-blue?style=flat-square)](https://huggingface.co/datasets/mohdali1/baltivoice-asr)
+[![WER](https://img.shields.io/badge/🎯_WER-30.07%25-green?style=flat-square)](https://huggingface.co/mohdali1/whisper-small-balti)
+[![Demo](https://img.shields.io/badge/🎧_Demo-Live-orange?style=flat-square)](https://huggingface.co/spaces/mohdali1/baltivoice-demo)
+
+First public ASR for Balti language • Low-resource NLP • Whisper fine-tuning
+
+[🚀 Try Demo](https://huggingface.co/spaces/mohdali1/baltivoice-demo) • [💻 Code](https://github.com/mohdali-dev/BaltiVoice-ASR)
+
+---
+
+### 🔍 RAG Semantic Search
+[![LangChain](https://img.shields.io/badge/🔗_LangChain-Hybrid-blue?style=flat-square)](https://github.com/mohdali-dev)
+[![VectorDB](https://img.shields.io/badge/🗄️_VectorDB-Pinecone-purple?style=flat-square)](https://github.com/mohdali-dev)
+
+Hybrid dense+sparse retrieval system for enterprise knowledge bases
+
+[🔗 View Repo](https://github.com/mohdali-dev)
+
+---
+
+### 🛡️ PII Sanitization Tool
+[![Privacy](https://img.shields.io/badge/🔒_Privacy-Client--side-green?style=flat-square)](https://github.com/mohdali-dev)
+[![Scale](https://img.shields.io/badge/📈_Scale-10K_docs/day-yellow?style=flat-square)](https://github.com/mohdali-dev)
+
+Client-side privacy engine processing sensitive documents with zero data leakage
+
+[🔗 View Repo](https://github.com/mohdali-dev)
+
+---
+
+### 🛒 Full-Stack E-Commerce
+[![Next.js](https://img.shields.io/badge/⚡_Next.js-Modern-black?style=flat-square)](https://github.com/mohdali-dev)
+[![AI](https://img.shields.io/badge/🤖_AI-Recommendations-purple?style=flat-square)](https://github.com/mohdali-dev)
+
+AI-driven e-commerce platform with personalized recommendations and Stripe payments
+
+[🔗 View Repo](https://github.com/mohdali-dev)
 
 </div>
 
