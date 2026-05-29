@@ -293,7 +293,19 @@ developer = {
 </td>
 </tr>
 </table>
+### 📫 Get in Touch
 
+<div align="center">
+
+| Contact | Link |
+| :---: | :---: |
+|  **Email** | [![Gmail](https://img.shields.io/badge/Gmail-alisdkse@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisdkse@gmail.com) |
+| 💼 **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-mohdali1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohdali1) |
+| 🤗 **HuggingFace** | [![HuggingFace](https://img.shields.io/badge/HuggingFace-mohdali1-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mohdali1) |
+| 🌐 **Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-www.mohdali.me-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://www.mohdali.me/) |
+|  **Instagram** | [![Instagram](https://img.shields.io/badge/Instagram-m_aliii10-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m_aliii10) |
+
+</div>
 <br/>
 <!-- Optional: Add a subtle animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60%" alt="divider"/>
