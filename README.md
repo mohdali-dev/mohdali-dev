@@ -277,7 +277,8 @@ developer = {
 <img src="https://img.shields.io/badge/HuggingFace-mohdali1-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" height="44"/>
 </a>
 </td>
-<br/>
+</tr>
+<tr>
 <td align="center">
 <a href="https://www.mohdali.me/">
 <img src="https://img.shields.io/badge/Portfolio-www.mohdali.me-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" height="44"/>
