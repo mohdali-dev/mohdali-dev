@@ -263,13 +263,23 @@ developer = {
 <table>
 <tr>
 <td align="center">
-<a href="mailto:aliskdse@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-aliskdse@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="44"/>
+<a href="mailto:alisdkse@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-alisdkse@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="44"/>
 </a>
 </td>
 <td align="center">
 <a href="https://linkedin.com/in/mohdali1">
 <img src="https://img.shields.io/badge/LinkedIn-mohdali1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="44"/>
+</a>
+</td>
+<td align="center">
+<a href="https://huggingface.co/mohdali1">
+<img src="https://img.shields.io/badge/HuggingFace-mohdali1-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" height="44"/>
+</a>
+</td>
+<td align="center">
+<a href="https://www.mohdali.me/">
+<img src="https://img.shields.io/badge/Portfolio-www.mohdali.me-24292e?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" height="44"/>
 </a>
 </td>
 <td align="center">
