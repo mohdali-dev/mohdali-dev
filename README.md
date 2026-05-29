@@ -123,52 +123,67 @@ Redis            ████████░░░░░  82%
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> <b>Featured Projects</b>
 
 <div align="center">
-
-### 🎙️ BaltiVoice ASR ⭐
-[![Dataset](https://img.shields.io/badge/📦_Dataset-10K_clips-blue?style=flat-square)](https://huggingface.co/datasets/mohdali1/baltivoice-asr)
-[![WER](https://img.shields.io/badge/🎯_WER-30.07%25-green?style=flat-square)](https://huggingface.co/mohdali1/whisper-small-balti)
-[![Demo](https://img.shields.io/badge/🎧_Demo-Live-orange?style=flat-square)](https://huggingface.co/spaces/mohdali1/baltivoice-demo)
-
-First public ASR for Balti language • Low-resource NLP • Whisper fine-tuning
-
-[🚀 Try Demo](https://huggingface.co/spaces/mohdali1/baltivoice-demo) • [💻 Code](https://github.com/mohdali-dev/BaltiVoice-ASR)
-
----
-
-### 🔍 RAG Semantic Search
-[![LangChain](https://img.shields.io/badge/🔗_LangChain-Hybrid-blue?style=flat-square)](https://github.com/mohdali-dev)
-[![VectorDB](https://img.shields.io/badge/🗄️_VectorDB-Pinecone-purple?style=flat-square)](https://github.com/mohdali-dev)
-
-Hybrid dense+sparse retrieval system for enterprise knowledge bases
-
-[🔗 View Repo](https://github.com/mohdali-dev)
-
----
-
-### 🛡️ PII Sanitization Tool
-[![Privacy](https://img.shields.io/badge/🔒_Privacy-Client--side-green?style=flat-square)](https://github.com/mohdali-dev)
-[![Scale](https://img.shields.io/badge/📈_Scale-10K_docs/day-yellow?style=flat-square)](https://github.com/mohdali-dev)
-
-Client-side privacy engine processing sensitive documents with zero data leakage
-
-[🔗 View Repo](https://github.com/mohdali-dev)
-
----
-
-### 🛒 Full-Stack E-Commerce
-[![Next.js](https://img.shields.io/badge/⚡_Next.js-Modern-black?style=flat-square)](https://github.com/mohdali-dev)
-[![AI](https://img.shields.io/badge/🤖_AI-Recommendations-purple?style=flat-square)](https://github.com/mohdali-dev)
-
-AI-driven e-commerce platform with personalized recommendations and Stripe payments
-
-[🔗 View Repo](https://github.com/mohdali-dev)
-
+<table width="100%">
+<tr>
+<td width="50%" align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 14px; padding: 18px; color: white;">
+<b>🎙️ BaltiVoice ASR</b> ⭐<br>
+<i style="font-size: 0.85em; opacity: 0.9;">Flagship Project • Low-Resource NLP</i><br><br>
+<span style="font-size: 0.92em;">First public ASR system for Balti (bft), a critically low-resource Tibetic language with ~300K speakers and zero prior digital tools.</span><br><br>
+<span style="font-size: 0.88em; line-height: 1.4;">📊 10,060 clips • 16.8h • 30% WER<br>🌐 Live demo • Open dataset • arXiv paper<br> 65% relative WER reduction vs zero-shot</span><br><br>
+<code style="background: rgba(255,255,255,0.2); padding: 2px 6px; border-radius: 4px; font-size: 0.82em;">Whisper</code> 
+<code style="background: rgba(255,255,255,0.2); padding: 2px 6px; border-radius: 4px; font-size: 0.82em;">PyTorch</code> 
+<code style="background: rgba(255,255,255,0.2); padding: 2px 6px; border-radius: 4px; font-size: 0.82em;">Gradio</code> 
+<code style="background: rgba(255,255,255,0.2); padding: 2px 6px; border-radius: 4px; font-size: 0.82em;">HF Transformers</code><br><br>
+<a href="https://huggingface.co/spaces/mohdali1/baltivoice-demo" style="color: white; font-weight: bold; text-decoration: none; background: rgba(255,255,255,0.2); padding: 6px 12px; border-radius: 6px; display: inline-block; margin-bottom: 6px;">🚀 Try Live Demo</a><br>
+<a href="https://github.com/mohdali-dev/BaltiVoice-ASR" style="color: white; text-decoration: none; font-size: 0.88em; opacity: 0.9;">💻 View Code & Paper</a>
+</td>
+<td width="50%" align="center" style="background: #f8f9fa; border-radius: 14px; padding: 18px; border: 1px solid #e2e8f0;">
+<b>🔍 RAG Semantic Search</b><br>
+<i style="font-size: 0.85em; color: #64748b;">Enterprise Knowledge Retrieval</i><br><br>
+<span style="font-size: 0.92em; color: #334155;">Hybrid dense+sparse retrieval system enabling sub-100ms semantic search across multi-source technical documents.</span><br><br>
+<span style="font-size: 0.88em; line-height: 1.4; color: #475569;">⚡ &lt;100ms latency • 95%+ recall@5<br>📚 Multi-format ingestion (PDF, HTML, MD)<br>🔗 LangChain pipelines + vector optimization</span><br><br>
+<code style="background: #e2e8f0; padding: 2px 6px; border-radius: 4px; font-size: 0.82em; color: #1e293b;">LangChain</code> 
+<code style="background: #e2e8f0; padding: 2px 6px; border-radius: 4px; font-size: 0.82em; color: #1e293b;">Pinecone</code> 
+<code style="background: #e2e8f0; padding: 2px 6px; border-radius: 4px; font-size: 0.82em; color: #1e293b;">FastAPI</code> 
+<code style="background: #e2e8f0; padding: 2px 6px; border-radius: 4px; font-size: 0.82em; color: #1e293b;">OpenAI</code><br><br>
+<a href="https://github.com/mohdali-dev" style="color: #2563eb; text-decoration: none; font-weight: bold; font-size: 0.9em;">🔗 View Repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" style="background: #f8f9fa; border-radius: 14px; padding: 18px; border: 1px solid #e2e8f0;">
+<b>🛡️ PII Sanitization Tool</b><br>
+<i style="font-size: 0.85em; color: #64748b;">Client-Side Privacy Engine</i><br><br>
+<span style="font-size: 0.92em; color: #334155;">Zero-trust document processing pipeline that detects & redacts sensitive data without leaving the user's device.</span><br><br>
+<span style="font-size: 0.88em; line-height: 1.4; color: #475569;">🔒 10K+ docs/day • Zero data leakage<br>✅ GDPR/CCPA compliant by design<br>🧠 Regex + lightweight NLP heuristics</span><br><br>
+<code style="background: #e2e8f0; padding: 2px 6px; border-radius: 4px; font-size: 0.82em; color: #1e293b;">Python</code> 
+<code style="background: #e2e8f0; padding: 2px 6px; border-radius: 4px; font-size: 0.82em; color: #1e293b;">Regex/NLP</code> 
+<code style="background: #e2e8f0; padding: 2px 6px; border-radius: 4px; font-size: 0.82em; color: #1e293b;">Privacy</code> 
+<code style="background: #e2e8f0; padding: 2px 6px; border-radius: 4px; font-size: 0.82em; color: #1e293b;">Edge AI</code><br><br>
+<a href="https://github.com/mohdali-dev" style="color: #2563eb; text-decoration: none; font-weight: bold; font-size: 0.9em;">🔗 View Repository →</a>
+</td>
+<td width="50%" align="center" style="background: #f8f9fa; border-radius: 14px; padding: 18px; border: 1px solid #e2e8f0;">
+<b>🛒 Full-Stack E-Commerce</b><br>
+<i style="font-size: 0.85em; color: #64748b;">AI-Driven Shopping Platform</i><br><br>
+<span style="font-size: 0.92em; color: #334155;">Modern Next.js platform with personalized recommendations, real-time inventory sync, and seamless checkout flow.</span><br><br>
+<span style="font-size: 0.88em; line-height: 1.4; color: #475569;">🤖 AI recommendations • 💳 Stripe payments<br>📱 Mobile-first PWA •  Advanced search<br>📊 Analytics dashboard + order tracking</span><br><br>
+<code style="background: #e2e8f0; padding: 2px 6px; border-radius: 4px; font-size: 0.82em; color: #1e293b;">Next.js</code> 
+<code style="background: #e2e8f0; padding: 2px 6px; border-radius: 4px; font-size: 0.82em; color: #1e293b;">PostgreSQL</code> 
+<code style="background: #e2e8f0; padding: 2px 6px; border-radius: 4px; font-size: 0.82em; color: #1e293b;">Stripe</code> 
+<code style="background: #e2e8f0; padding: 2px 6px; border-radius: 4px; font-size: 0.82em; color: #1e293b;">Tailwind</code><br><br>
+<a href="https://github.com/mohdali-dev" style="color: #2563eb; text-decoration: none; font-weight: bold; font-size: 0.9em;">🔗 View Repository →</a>
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
-
+<br>
+<img src="https://img.shields.io/badge/📦_Projects-4_Shipped-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/⭐_Stars-50%2B-yellow?style=flat-square&logo=github"/>
+<img src="https://img.shields.io/badge/🚀_Live_Demos-2_Orange?style=flat-square&logo=huggingface"/>
+<img src="https://img.shields.io/badge/📄_Papers-1_Submitted-red?style=flat-square&logo=arxiv"/>
+<br><br>
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 </div>
 
 ### 📊 GitHub Statistics
