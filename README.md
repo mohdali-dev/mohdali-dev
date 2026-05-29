@@ -119,29 +119,57 @@ Redis            ████████░░░░░  82%
 
 <div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
-<!-- FEATURED PROJECTS -->
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> Featured Projects
+<!-- 🌟FEATURED PROJECTS -->
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> <b>Featured Projects</b>
+
 <div align="center">
+
 <table>
 <tr>
-<th>🔍 RAG Semantic Search</th>
-<th>🛡️ PII Sanitization Tool</th>
-<th>🛒 Full-Stack E-Commerce</th>
+<td align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 16px; padding: 20px; color: white; min-width: 280px;">
+<b>🎙️ BaltiVoice ASR</b> ⭐<br>
+<i style="font-size: 0.9em;">Flagship Project • Low-Resource NLP</i><br><br>
+📊 10K+ clips • 16.8h • 30% WER<br>
+🌐 Live demo • Open dataset • arXiv paper<br><br>
+<code style="background: rgba(255,255,255,0.2); padding: 2px 6px; border-radius: 4px;">Whisper</code> 
+<code style="background: rgba(255,255,255,0.2); padding: 2px 6px; border-radius: 4px;">PyTorch</code> 
+<code style="background: rgba(255,255,255,0.2); padding: 2px 6px; border-radius: 4px;">Gradio</code><br><br>
+<a href="https://huggingface.co/spaces/mohdali1/baltivoice-demo" style="color: white; font-weight: bold; text-decoration: none;">🚀 Try Live Demo →</a><br>
+<a href="https://github.com/mohdali-dev/BaltiVoice-ASR" style="color: white; text-decoration: none;">💻 View Code</a>
+</td>
+<td align="center" style="background: #f8f9fa; border-radius: 16px; padding: 20px; min-width: 280px;">
+<b>🔍 RAG Semantic Search</b><br><br>
+Hybrid dense+sparse retrieval<br>
+LangChain • Vector DBs • FastAPI<br><br>
+<code>LangChain</code> <code>Pinecone</code> <code>FastAPI</code><br><br>
+<a href="https://github.com/mohdali-dev">🔗 View Repo</a>
+</td>
 </tr>
 <tr>
-<td>Hybrid dense+sparse retrieval system using LangChain & Vector DBs.</td>
-<td>Client-side privacy tool processing 10K+ documents/day.</td>
-<td>Modern Next.js platform with AI-driven recommendations.</td>
-</tr>
-<tr>
-<td><a href="https://github.com/mohdali-dev">View Repo</a></td>
-<td><a href="https://github.com/mohdali-dev">View Repo</a></td>
-<td><a href="https://github.com/mohdali-dev">View Repo</a></td>
+<td align="center" style="background: #f8f9fa; border-radius: 16px; padding: 20px; min-width: 280px;">
+<b>🛡️ PII Sanitization Tool</b><br><br>
+Client-side privacy engine<br>
+10K+ docs/day • Zero-trust architecture<br><br>
+<code>Python</code> <code>Regex</code> <code>NLP</code><br><br>
+<a href="https://github.com/mohdali-dev">🔗 View Repo</a>
+</td>
+<td align="center" style="background: #f8f9fa; border-radius: 16px; padding: 20px; min-width: 280px;">
+<b>🛒 Full-Stack E-Commerce</b><br><br>
+AI-driven recommendations<br>
+Next.js • PostgreSQL • Stripe<br><br>
+<code>Next.js</code> <code>PostgreSQL</code> <code>Stripe</code><br><br>
+<a href="https://github.com/mohdali-dev">🔗 View Repo</a>
+</td>
 </tr>
 </table>
+
 </div>
 
-<div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
+<div align="center">
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 ### 📊 GitHub Statistics
 <div align="center">
