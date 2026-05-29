@@ -278,6 +278,8 @@ developer = {
 </a>
 </td>
 </tr>
+</table>
+<table>
 <tr>
 <td align="center">
 <a href="https://www.mohdali.me/">
