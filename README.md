@@ -119,49 +119,17 @@ Redis            ████████░░░░░  82%
 
 <div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
-<!-- 🌟FEATURED PROJECTS -->
+<!-- 🌟 FEATURED PROJECTS -->
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> <b>Featured Projects</b>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 16px; padding: 20px; color: white; min-width: 280px;">
-<b>🎙️ BaltiVoice ASR</b> ⭐<br>
-<i style="font-size: 0.9em;">Flagship Project • Low-Resource NLP</i><br><br>
-📊 10K+ clips • 16.8h • 30% WER<br>
-🌐 Live demo • Open dataset • arXiv paper<br><br>
-<code style="background: rgba(255,255,255,0.2); padding: 2px 6px; border-radius: 4px;">Whisper</code> 
-<code style="background: rgba(255,255,255,0.2); padding: 2px 6px; border-radius: 4px;">PyTorch</code> 
-<code style="background: rgba(255,255,255,0.2); padding: 2px 6px; border-radius: 4px;">Gradio</code><br><br>
-<a href="https://huggingface.co/spaces/mohdali1/baltivoice-demo" style="color: white; font-weight: bold; text-decoration: none;">🚀 Try Live Demo →</a><br>
-<a href="https://github.com/mohdali-dev/BaltiVoice-ASR" style="color: white; text-decoration: none;">💻 View Code</a>
-</td>
-<td align="center" style="background: #f8f9fa; border-radius: 16px; padding: 20px; min-width: 280px;">
-<b>🔍 RAG Semantic Search</b><br><br>
-Hybrid dense+sparse retrieval<br>
-LangChain • Vector DBs • FastAPI<br><br>
-<code>LangChain</code> <code>Pinecone</code> <code>FastAPI</code><br><br>
-<a href="https://github.com/mohdali-dev">🔗 View Repo</a>
-</td>
-</tr>
-<tr>
-<td align="center" style="background: #f8f9fa; border-radius: 16px; padding: 20px; min-width: 280px;">
-<b>🛡️ PII Sanitization Tool</b><br><br>
-Client-side privacy engine<br>
-10K+ docs/day • Zero-trust architecture<br><br>
-<code>Python</code> <code>Regex</code> <code>NLP</code><br><br>
-<a href="https://github.com/mohdali-dev">🔗 View Repo</a>
-</td>
-<td align="center" style="background: #f8f9fa; border-radius: 16px; padding: 20px; min-width: 280px;">
-<b>🛒 Full-Stack E-Commerce</b><br><br>
-AI-driven recommendations<br>
-Next.js • PostgreSQL • Stripe<br><br>
-<code>Next.js</code> <code>PostgreSQL</code> <code>Stripe</code><br><br>
-<a href="https://github.com/mohdali-dev">🔗 View Repo</a>
-</td>
-</tr>
-</table>
+| Project | Impact | Tech Stack | Links |
+|---------|--------|------------|-------|
+| **🎙️ BaltiVoice ASR** ⭐<br><i>First public ASR for Balti (bft)</i> | ✅ 10,060 audio clips<br>✅ 30.07% WER (vs 95% baseline)<br>✅ Live demo + open dataset<br>✅ Paper submitted to arXiv | `Whisper` `PyTorch` `Gradio` `HuggingFace` | [🚀 Demo](https://huggingface.co/spaces/mohdali1/baltivoice-demo) • [📦 Dataset](https://huggingface.co/datasets/mohdali1/baltivoice-asr) • [💻 Code](https://github.com/mohdali-dev/BaltiVoice-ASR) |
+| **🔍 RAG Semantic Search**<br><i>Enterprise knowledge retrieval</i> | ✅ Sub-100ms latency<br>✅ 95%+ recall@5<br>✅ Multi-source ingestion | `LangChain` `Pinecone` `FastAPI` `OpenAI` | [🔗 Repo](https://github.com/mohdali-dev) |
+| **🛡️ PII Sanitization Tool**<br><i>Client-side privacy for sensitive docs</i> | ✅ 10K+ docs/day processed<br>✅ Zero data leaves client<br>✅ GDPR/CCPA compliant | `Python` `Regex` `NLP` `Privacy` | [🔗 Repo](https://github.com/mohdali-dev) |
+| **🛒 Full-Stack E-Commerce**<br><i>AI-powered shopping experience</i> | ✅ Personalized recommendations<br>✅ Stripe payments integrated<br>✅ Mobile-first PWA | `Next.js` `PostgreSQL` `Stripe` `Tailwind` | [🔗 Repo](https://github.com/mohdali-dev) |
 
 </div>
 
