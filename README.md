@@ -22,30 +22,38 @@
 
 <div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
-<!-- ABOUT ME SECTION -->
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-<br>
-I engineer intelligent systems at the intersection of Language, Logic, and Code. Based in Lahore, Pakistan 🇵🇰, I specialize in turning complex NLP models into production-ready, privacy-first applications.
-<br clear="right"/>
+<!-- 👋 ABOUT ME -->
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <b>About Me</b>
+
+<div align="left">
+
+I am an **AI/ML Engineer & Full Stack Developer** based in **Lahore, Pakistan** 🇵🇰, specializing in building privacy-first, production-ready NLP systems. I bridge the gap between complex research models and real-world applications, focusing on low-resource languages and data security.
 
 <table>
 <tr>
-<td width="50%">
-🔭 <b>Currently Building</b><br>
-• RAG-powered Semantic Search Engines (Hybrid Retrieval)<br>
-• Client-side PII Sanitization Tools (10K+ docs/day)<br>
-• Full-Stack AI Apps (Next.js + FastAPI + Vector DBs)
+<td width="50%" valign="top">
+<b>🔭 Currently Building</b><br>
+<ul>
+  <li><b>BaltiVoice ASR:</b> First public speech recognition system for Balti (30% WER)</li>
+  <li><b>RAG Search Engines:</b> Hybrid dense+sparse retrieval for enterprise knowledge</li>
+  <li><b>PII Sanitizer:</b> Client-side privacy tool processing 10K+ docs/day</li>
+</ul>
 </td>
-<td width="50%">
-💡 <b>What Drives Me</b><br>
-Building AI that respects privacy & actually solves real problems. Code that ships > Code that sits in branches forever.<br><br>
-🌱 <b>Learning Journey</b><br>
-• Parameter-Efficient Fine-Tuning (LoRA/QLoRA)<br>
-• MLOps: CI/CD for ML & Model Drift Detection<br>
-• Multi-Agent Workflows with LangGraph
+<td width="50%" valign="top">
+<b>💡 Philosophy & Focus</b><br>
+<ul>
+  <li><b>Motto:</b> "Code that ships > Code that sits in branches"</li>
+  <li><b>Privacy-First:</b> AI shouldn't compromise user data by default</li>
+  <li><b>Tech Stack:</b> Python, PyTorch, LangChain, Next.js, FastAPI, PostgreSQL</li>
+</ul>
 </td>
 </tr>
 </table>
+
+<b>🌱 Currently Learning</b><br>
+<code>LoRA/QLoRA Fine-Tuning</code> • <code>MLOps (CI/CD for ML)</code> • <code>LangGraph Multi-Agent Systems</code> • <code>Model Drift Detection</code>
+
+</div>
 
 <div align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</div>
 
