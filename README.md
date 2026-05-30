@@ -135,7 +135,7 @@ Redis            ████████░░░░░  82%
 ---
 
 ### 🎙️ BaltiVoice ASR <span style="color:#fbbf24">⭐ Flagship</span>
-> *First public ASR system for Balti (bft) — a critically low-resource Tibetic language with ~300K speakers and zero prior digital tools.*
+> *First public ASR system for Balti (bft) — a critically low-resource Tibetic language with ~400K to 500k speakers and zero prior digital tools.*
 
 [![Dataset](https://img.shields.io/badge/📦_Dataset-10,060_clips-blue?style=flat-square)](https://huggingface.co/datasets/mohdali1/baltivoice-asr)
 [![WER](https://img.shields.io/badge/🎯_WER-30.07%25-green?style=flat-square)](https://huggingface.co/mohdali1/whisper-small-balti)
@@ -149,6 +149,22 @@ Redis            ████████░░░░░  82%
 | 🛠️ Stack | `Whisper` `PyTorch` `Gradio` `HF Transformers` `Librosa` |
 
 [🚀 Try Live Demo](https://huggingface.co/spaces/mohdali1/baltivoice-demo) • [📦 Explore Dataset](https://huggingface.co/datasets/mohdali1/baltivoice-asr) • [💻 View Code](https://github.com/mohdali-dev/BaltiVoice-ASR) • [📄 Read Paper](#)
+
+---
+### 🛡️ PII Sanitization Tool
+> *Zero-trust client-side privacy engine that detects & redacts sensitive data without leaving the user's device.*
+
+[![Privacy](https://img.shields.io/badge/🔒_Privacy-Zero_Leakage-green?style=flat-square)](#)
+[![Scale](https://img.shields.io/badge/📈_Throughput-10K_docs/day-yellow?style=flat-square)](#)
+[![Compliance](https://img.shields.io/badge/✅_GDPR/CCPA-Compliant-blue?style=flat-square)](#)
+
+| Metric | Value |
+|--------|-------|
+| 📊 Data | Regex + lightweight NLP heuristics • Configurable entity types |
+| 📉 Impact | 100% client-side processing • No PII leaves user device |
+| 🛠️ Stack | `Python` `spaCy` `Regex` `WebAssembly` `Privacy-Preserving ML` |
+
+[🔗 View Repository](https://github.com/mohdali-dev) • [🔐 Privacy Whitepaper](#) • [🧪 Interactive Demo](#)
 
 ---
 
@@ -166,23 +182,6 @@ Redis            ████████░░░░░  82%
 | 🛠️ Stack | `LangChain` `Pinecone` `FastAPI` `OpenAI` `Sentence-Transformers` |
 
 [🔗 View Repository](https://github.com/mohdali-dev) • [📚 Documentation](#) • [🧪 Try Demo](#)
-
----
-
-### 🛡️ PII Sanitization Tool
-> *Zero-trust client-side privacy engine that detects & redacts sensitive data without leaving the user's device.*
-
-[![Privacy](https://img.shields.io/badge/🔒_Privacy-Zero_Leakage-green?style=flat-square)](#)
-[![Scale](https://img.shields.io/badge/📈_Throughput-10K_docs/day-yellow?style=flat-square)](#)
-[![Compliance](https://img.shields.io/badge/✅_GDPR/CCPA-Compliant-blue?style=flat-square)](#)
-
-| Metric | Value |
-|--------|-------|
-| 📊 Data | Regex + lightweight NLP heuristics • Configurable entity types |
-| 📉 Impact | 100% client-side processing • No PII leaves user device |
-| 🛠️ Stack | `Python` `spaCy` `Regex` `WebAssembly` `Privacy-Preserving ML` |
-
-[🔗 View Repository](https://github.com/mohdali-dev) • [🔐 Privacy Whitepaper](#) • [🧪 Interactive Demo](#)
 
 ---
 
